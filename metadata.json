@@ -1,0 +1,8 @@
+{
+  "name": "Remix: StudyMind AI",
+  "description": "Bilingual AI study companion. Upload textbook pages to perform OCR, generate interactive study quizzes, view key concepts, and chat with an AI assistant in Arabic or English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
